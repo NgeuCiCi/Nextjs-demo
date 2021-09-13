@@ -1,0 +1,94 @@
+.container {
+    margin: o;
+    padding-bottom: 40px;
+}
+
+.div_add {
+    display: flex;
+    padding: 20px 25vw;
+    justify-content: space-evenly;
+}
+
+.input {
+    height: 30px;
+    font-size: 15px;
+}
+
+.btn_add {
+    height: 35px;
+    width: 120px;
+    border-color: #0c9c30;
+    border-radius: 5px;
+    background: transparent;
+    color: #0c9c30;
+    border-style: solid;
+    font-size: 16px;
+}
+
+.btn_add:hover {
+    background-color: #0c9c30;
+    color: white;
+}
+
+.btn_delete {
+    height: 35px;
+    width: 100px;
+    border-color: #e01947;
+    border-radius: 5px;
+    background: transparent;
+    color: #e01947;
+    border-style: solid;
+    font-size: 16px;
+    margin: 5px;
+}
+
+.btn_delete:hover {
+    background-color: #e01947;
+    color: white;
+}
+
+.btn_update {
+    height: 35px;
+    width: 100px;
+    border-color: #afc92c;
+    border-radius: 5px;
+    background: transparent;
+    color: #afc92c;
+    border-style: solid;
+    font-size: 16px;
+    margin: 5px;
+}
+
+.btn_update:hover {
+    background-color: #afc92c;
+    color: white;
+}
+
+.btn_details {
+    height: 35px;
+    width: 100px;
+    border-color: #3b3d31;
+    border-radius: 5px;
+    background: transparent;
+    color: #3b3d31;
+    border-style: solid;
+    font-size: 16px;
+    margin: 5px;
+}
+
+.btn_details:hover {
+    background-color: #3b3d31;
+    color: white;
+}
+
+.th_user_Id {
+    min-width: 80px;
+}
+
+.td_Id {
+    text-align: center;
+}
+
+.td_user_Id {
+    text-align: center;
+}
